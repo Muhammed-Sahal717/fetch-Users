@@ -26,9 +26,10 @@ A simple JavaScript project that fetches user data from an API and displays it i
 
 ## Project Structure
 ```
-.
+fetch User/
 ├── index.html
 ├── script.js
+├── style.css
 └── README.md
 ```
 
